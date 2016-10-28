@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JSON Object Creation in JavaScript</h2>
+
+<p id="demo"></p>
+
+<script>
+//var jsontext = '{"employees":[{"firstName":"John", "lastName":"Doe"},{"firstName":"Anna", "lastName":"Smith"},{"firstName":"Peter", "lastName":"Jones"}]}';
+var jsontext = '{"employees":[{"firstName":"John", "lastName":"Doe"},{"firstName":"Anna", "lastName":"Smith"},{"firstName":"Peter", "lastName":"Jones"}]}';
+
+var obj = JSON.parse(jsontext);
+
+document.getElementById("demo").innerHTML =
+obj.employees[0].firstName + "<br>" +
+obj.street + "<br>" +
+obj.phone;
+</script>
+
+</body>
+</html>

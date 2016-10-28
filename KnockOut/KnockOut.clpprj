@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="Y:\www\zendsvr\dev\rmarsh\KnockOut\KnockOut.clpprj">
+	<settings><PM_URL><![CDATA[http://gravy:10088/DEV/rmarsh/KnockOut/]]></PM_URL><PM_HOME_URL><![CDATA[http://gravy:10088/DEV/rmarsh/KnockOut/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="Y:\www\zendsvr\dev\rmarsh\KnockOut\Save_Data.php" crc="1477675287"/>
+		<file name="Y:\www\zendsvr\dev\rmarsh\KnockOut\Loading_and_Saving_Data.html" crc="1477667034"/>
+		<file name="Y:\www\zendsvr\dev\rmarsh\KnockOut\Load_Data.php" crc="1477600239"/>
+		<file name="Y:\www\zendsvr\dev\rmarsh\KnockOut\Lists_and_Collections.php" crc="1477410025"/>
+		<file name="Y:\www\zendsvr\dev\rmarsh\KnockOut\JSON_example.html" crc="1477593782"/>
+		<file name="Y:\www\zendsvr\dev\rmarsh\KnockOut\getJSON.html" crc="1477588188"/>
+		<file name="Y:\www\zendsvr\dev\rmarsh\KnockOut\Basic_Data_Binding.php" crc="1477406953"/>
+	</filescache>
+</project>
